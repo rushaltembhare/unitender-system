@@ -1,0 +1,56 @@
+{
+  "portalTitle": "युनीटेंडर",
+  "portalSubtitle": "केंद्रीय विश्वविद्यालय ई-निविदा पोर्टल",
+  "gfrCompliantBadge": "जीएफआर 2017 और सीवीसी अनुपालन",
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "noticeBoard": "निविदा सूचना पट्ट",
+    "requisitions": "मांग पत्र और बजट",
+    "createTender": "निविदा बनाएं",
+    "bidOpening": "लाइव निविदा कक्ष",
+    "evaluation": "मूल्यांकन एवं तुलनात्मक विवरण",
+    "contracts": "अनुबंध एवं कार्य आदेश",
+    "vendors": "विक्रेता प्रबंधन",
+    "payments": "भुगतान और ईएमडी",
+    "inventory": "परिसंपत्ति रजिस्टर",
+    "audit": "ब्लॉकचेन ऑडिट लेजर",
+    "rti": "आरटीआई प्रकटीकरण",
+    "guide": "नये बोलीदाता हेतु मार्गदर्शिका"
+  },
+  "roles": {
+    "admin": "खरीद अधिकारी",
+    "department": "विभागाध्यक्ष (HOD)",
+    "committee": "मूल्यांकन समिति",
+    "approver": "वित्त अधिकारी / कुलसचिव",
+    "vendor": "पंजीकृत बोलीदाता",
+    "auditor": "सांविधिक लेखा परीक्षक"
+  },
+  "common": {
+    "search": "निविदा, संदर्भ कोड या विभाग खोजें...",
+    "category": "श्रेणी",
+    "status": "स्थिति",
+    "estimatedCost": "अनुमानित लागत",
+    "deadline": "अंतिम तिथि",
+    "department": "विभाग",
+    "actions": "कार्रवाई",
+    "viewDetails": "विवरण देखें",
+    "downloadDocs": "निविदा दस्तावेज डाउनलोड करें",
+    "submitBid": "दो-लिफाफा बोली प्रस्तुत करें",
+    "applyFilter": "फिल्टर लागू करें",
+    "reset": "रीसेट",
+    "verified": "सत्यापित",
+    "pending": "लंबित",
+    "approved": "स्वीकृत",
+    "rejected": "अस्वीकृत",
+    "close": "बंद करें"
+  },
+  "dashboard": {
+    "activeTenders": "सक्रिय निविदाएं",
+    "totalBudget": "कुल आवंटित बजट",
+    "savingsAchieved": "प्राप्त बचत",
+    "avgCycleTime": "औसत चक्र समय",
+    "aiAssistantBtn": "एआई निविदा सहायक और रडार",
+    "verifyLedgerBtn": "क्रिप्टोग्राफिक लेजर सत्यापित करें",
+    "budgetUtilization": "विभागवार बजट उपयोग"
+  }
+}

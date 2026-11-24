@@ -1,0 +1,56 @@
+{
+  "portalTitle": "UniTender",
+  "portalSubtitle": "Central University e-Procurement Portal",
+  "gfrCompliantBadge": "GFR 2017 & CVC Compliant",
+  "nav": {
+    "dashboard": "Dashboard",
+    "noticeBoard": "Tender Notice Board",
+    "requisitions": "Requisitions & Budgets",
+    "createTender": "Create Tender",
+    "bidOpening": "Live Opening Room",
+    "evaluation": "Evaluation & CSQ",
+    "contracts": "Contracts & Work Orders",
+    "vendors": "Vendor Management",
+    "payments": "Payments & EMD",
+    "inventory": "Asset Register",
+    "audit": "Blockchain Audit Ledger",
+    "rti": "RTI Disclosures",
+    "guide": "First-Time Bidder Guide"
+  },
+  "roles": {
+    "admin": "Procurement Officer",
+    "department": "Department HOD",
+    "committee": "Evaluation Committee",
+    "approver": "Finance / Registrar",
+    "vendor": "Registered Bidder",
+    "auditor": "Statutory Auditor"
+  },
+  "common": {
+    "search": "Search tenders, reference codes, departments...",
+    "category": "Category",
+    "status": "Status",
+    "estimatedCost": "Estimated Cost",
+    "deadline": "Submission Deadline",
+    "department": "Department",
+    "actions": "Actions",
+    "viewDetails": "View Details",
+    "downloadDocs": "Download Tender Document",
+    "submitBid": "Submit 2-Envelope Bid",
+    "applyFilter": "Apply Filters",
+    "reset": "Reset",
+    "verified": "Verified",
+    "pending": "Pending",
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "close": "Close"
+  },
+  "dashboard": {
+    "activeTenders": "Active Tenders",
+    "totalBudget": "Total Allocated Budget",
+    "savingsAchieved": "Procurement Savings",
+    "avgCycleTime": "Avg Procurement Cycle",
+    "aiAssistantBtn": "AI Tender Drafter & Radar",
+    "verifyLedgerBtn": "Verify Cryptographic Ledger",
+    "budgetUtilization": "Department Budget Utilization"
+  }
+}

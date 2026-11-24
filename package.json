@@ -1,0 +1,22 @@
+{
+  "name": "unitender-portal",
+  "version": "1.0.0",
+  "description": "Online Tender Management System for Schools and Universities under GFR 2017 & CVC Guidelines",
+  "scripts": {
+    "start": "node server/index.js",
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "setup": "npm --prefix server install && npm --prefix client install && npm --prefix client run build",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": [
+    "tender-management",
+    "eprocurement",
+    "university-procurement",
+    "gfr-2017",
+    "two-envelope",
+    "blockchain-audit"
+  ],
+  "author": "UniTender Development Team"
+}
